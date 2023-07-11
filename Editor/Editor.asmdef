@@ -1,6 +1,6 @@
 {
-    "name": "Editor",
-    "rootNamespace": "",
+    "name": "Editor.EditorUtils",
+    "rootNamespace": "Editor.EditorUtils",
     "references": [],
     "includePlatforms": [
         "Editor"

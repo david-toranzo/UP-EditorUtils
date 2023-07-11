@@ -2,7 +2,7 @@
     "name": "Editor.MainSceneAutoplay",
     "rootNamespace": "Editor.MainSceneAutoplay",
     "references": [
-        "GUID:0311c5553151ba54382e3b397584b4ee"
+        "GUID:14cccf2b23a05b54496013a9ecbd9897"
     ],
     "includePlatforms": [
         "Editor"
