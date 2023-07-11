@@ -1,0 +1,18 @@
+{
+    "name": "Editor.MainSceneAutoplay",
+    "rootNamespace": "Editor.MainSceneAutoplay",
+    "references": [
+        "GUID:0311c5553151ba54382e3b397584b4ee"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

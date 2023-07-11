@@ -1,7 +1,7 @@
 {
-  "name": "com..",
+  "name": "editor-utils",
   "version": "1.0.0",
-  "displayName": "",
+  "displayName": "UP-EditorUtils",
   "description": "",
   "unity": "2020.3",
   "unityRelease": "0b5",
