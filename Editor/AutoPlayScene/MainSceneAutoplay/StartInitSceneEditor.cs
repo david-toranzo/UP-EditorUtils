@@ -5,7 +5,7 @@ using UnityToolbarExtender;
 
 namespace Trantorian.Editor
 {
-  public class StartMainSceneEditor
+  public class StartInitSceneEditor
   {
     static class ToolbarStyles
     {
@@ -43,7 +43,7 @@ namespace Trantorian.Editor
 
         if (GUILayout.Button(new GUIContent("<color=white>M</color>", "Load main scene and play"),
           ToolbarStyles.commandButtonStyle))
-          SceneHelper.StartScene("MainScene", EditorSceneManager.GetActiveScene().name);
+          SceneHelper.StartScene("Init", EditorSceneManager.GetActiveScene().name);
 
       }
     }

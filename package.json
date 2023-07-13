@@ -1,15 +1,13 @@
 {
   "name": "editor-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "UP-EditorUtils",
-  "description": "",
   "unity": "2020.3",
   "unityRelease": "0b5",
   "documentationUrl": "",
   "changelogUrl": "",
   "licensesUrl": "",
-  "keywords": [
-  ],
+  "keywords": [],
   "author": {
     "name": "",
     "email": "",
@@ -17,12 +15,11 @@
   },
   "type": "tool",
   "hideInEditor": false,
-  "samples": 
-[
-	{
-		"displayName": "Samples",
-		"description": "",
-		"path": "Samples~/"
-	}
-]
+  "samples": [
+    {
+      "displayName": "Samples",
+      "description": "",
+      "path": "Samples~/"
+    }
+  ]
 }
